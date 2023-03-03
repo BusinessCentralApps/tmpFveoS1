@@ -1,0 +1,15 @@
+{
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmpLwAJRd-PTE@main",
+  "buildModes": [
+    "Clean",
+    "Default",
+    "Translated"
+  ],
+  "MicrosoftTelemetryConnectionString": "",
+  "shell": "pwsh",
+  "cleanModePreprocessorSymbols": [
+    "CLEAN"
+  ],
+  "runs-on": "ubuntu-latest"
+}
